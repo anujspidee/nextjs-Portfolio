@@ -17,7 +17,7 @@ const footerLinks = [
     title: "Social",
     links: [
       { name: "GitHub", href: "https://github.com/anujspidee" },
-      { name: "LinkedIn", href: "www.linkedin.com/in/anuj-rawat-94603428b" },
+      { name: "LinkedIn", href: "https://linkedin.com/in/anuj-rawat-94603428b" },
       { name: "Twitter", href: "https://x.com/anujspidee" },
       { name: "Instagram", href: "https://www.instagram.com/anujspidee/" },
     ],
